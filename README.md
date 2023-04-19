@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/whateverlacy" target="blank"><img src="https://img.shields.io/twitter/follow/whateverlacy?logo=twitter&style=for-the-badge" alt="whateverlacy" /></a> </p>
 
-- 🌱 I’m currently learning **advanced React**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **lacyjohnson@me.com**
 
