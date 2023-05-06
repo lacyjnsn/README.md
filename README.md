@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lacy</h1>
-<h3 align="center">A passionate frontend developer from Oregon</h3>
+<h1 align="center">Hi, I'm Lacy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+<h3 align="center">I am Software Developer from Oregon, specializing in Web Development</h3>
 
 <p align="left"> <a href="https://twitter.com/whateverlacy" target="blank"><img src="https://img.shields.io/twitter/follow/whateverlacy?logo=twitter&style=for-the-badge" alt="whateverlacy" /></a> </p>
 
